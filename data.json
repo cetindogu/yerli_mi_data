@@ -1,0 +1,232 @@
+[
+    {
+        "marka": "Evyap",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Naturelive",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Duru",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Bingo",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Peros",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Ersağ",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Viking",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Paksoy",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Eti Matik",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Molped",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "ABC",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Dalin",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Molfix",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Emotion",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Familia",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Papia",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Teno",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Tex",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Mintax",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Aromel",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "İdil",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Arko",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Bioxin",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Otacı",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Biobelinda",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Activex",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Spumy",
+        "kategori": "Temizlik",
+        "yerli_mi": true
+    },
+    {
+        "marka": "Tropicana",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Schweppes",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Tnuva",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Strauss",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Nescafe",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Tassimo",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Starbucks",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Lipton",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Dilmah",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Elite",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Strauss",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Walls",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Ben & Jerry's",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Carmel Agrexco",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Agrexco",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Coca-Cola",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Pepsi Co",
+        "kategori": "Gıda",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Tommy Hilfiger",
+        "kategori": "Giyim",
+        "yerli_mi": false
+    },
+    {
+        "marka": "Nike",
+        "kategori": "Giyim",
+        "yerli_mi": false
+    }
+]
