@@ -1,732 +1,737 @@
 [
-    {
-        "marka": "Türk Hava Yolları",
-        "kategori": "Havayolu",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Arçelik",
-        "kategori": "Dayanıklı Tüketim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ford Otosan",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Vestel",
-        "kategori": "Dayanıklı Tüketim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Turkcell",
-        "kategori": "Telekom",
-        "yerli_mi": true
-    },
-    {
-        "marka": "LC Waikiki",
-        "kategori": "Hazır Giyim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Garanti BBVA",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "BİM",
-        "kategori": "Perakende – Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "İş Bankası",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Türk Telekom",
-        "kategori": "Telekom",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ziraat Bankası",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Akbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Yapı Kredi",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "BSH",
-        "kategori": "Dayanıklı Tüketim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Vakıfbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Migros",
-        "kategori": "Perakende – Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Opet",
-        "kategori": "Perakende – Akaryakıt",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ülker",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Petrol Ofisi",
-        "kategori": "Perakende – Akaryakıt",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aselsan",
-        "kategori": "Teknoloji – Savunma",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Enerjisa",
-        "kategori": "Elektrik Dağıtım",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Halkbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tofaş",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Anadolu Efes",
-        "kategori": "Alkollü İçecek",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Denizbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Şişe Cam",
-        "kategori": "Cam",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Şok",
-        "kategori": "Perakende – Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Doğuş Otomotiv",
-        "kategori": "Otomotiv Dağıtım",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Sütaş",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Türk Tuborg",
-        "kategori": "Alkollü İçecek",
-        "yerli_mi": true
-    },
-    {
-        "marka": "İGA",
-        "kategori": "Havalimanı",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Pegasus",
-        "kategori": "Havayolu",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Mavi",
-        "kategori": "Hazır Giyim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Enka",
-        "kategori": "İnşaat",
-        "yerli_mi": true
-    },
-    {
-        "marka": "TürkTraktör",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Otokoç",
-        "kategori": "Otomotiv Dağıtım",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Yayla",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "TEB",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "TAV",
-        "kategori": "İnşaat – Havalimanı İşletme",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Brisa",
-        "kategori": "Oto Lastik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tusaş",
-        "kategori": "Havacılık – Savunma",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Koton",
-        "kategori": "Hazır Giyim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Medical Park",
-        "kategori": "Sağlık",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Pınar",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Yataş",
-        "kategori": "Ev Mobilya",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Otokar",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "KoçSistem",
-        "kategori": "Bilişim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Do&Co",
-        "kategori": "İkram",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Odeabank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "SuperFresh",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Anadolu Sigorta",
-        "kategori": "Sigorta",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Albaraka Türk",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Netlog",
-        "kategori": "Lojistik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Beşiktaş",
-        "kategori": "Futbol Kulübü",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Agesa",
-        "kategori": "Sigorta",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Fenerbahçe",
-        "kategori": "Futbol Kulübü",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Kordsa",
-        "kategori": "Kimya",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Anadolu Hayat",
-        "kategori": "Sigorta",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ekol",
-        "kategori": "Lojistik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Koçtaş",
-        "kategori": "Perakende – Ev Geliştirme",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aygaz",
-        "kategori": "LPG Dağıtım",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Galatasaray",
-        "kategori": "Futbol Kulübü",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Emlak Konut",
-        "kategori": "GYO",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Carrefoursa",
-        "kategori": "Perakende – Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Kervan",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Petlas",
-        "kategori": "Oto Lastik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Logo",
-        "kategori": "Bilişim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Teknosa",
-        "kategori": "Perakende – Teknoloji",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Türkiye Sigorta",
-        "kategori": "Sigorta",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Banvit",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Alternatifbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Borsa Istanbul",
-        "kategori": "Borsa",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aksigorta",
-        "kategori": "Sigorta",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Vakko",
-        "kategori": "Hazır Giyim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aytemiz",
-        "kategori": "Perakende – Akaryakıt",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tukaş",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Kent",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "TSKB",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Şekerbank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Karsan",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Trabzonspor",
-        "kategori": "Futbol Kulübü",
-        "yerli_mi": true
-    },
-    {
-        "marka": "İndeks",
-        "kategori": "Teknoloji Dağıtım",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Arena",
-        "kategori": "Bilişim",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Sabiha Gökçen",
-        "kategori": "Havalimanı",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Mars",
-        "kategori": "Lojistik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aktif Bank",
-        "kategori": "Banka",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Arzum",
-        "kategori": "Küçük Ev Aletleri",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tat",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Netaş",
-        "kategori": "Telekomünikasyon",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Dardanel",
-        "kategori": "Gıda",
-        "yerli_mi": true
-    },
-    {
-        "marka": "DYO",
-        "kategori": "Kimya",
-        "yerli_mi": true
-    },
-    {
-        "marka": "İnci Akü",
-        "kategori": "Otomotiv Yan Sanayi",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Bossa",
-        "kategori": "Tekstil",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Doğtaş Kelebek",
-        "kategori": "Ev Mobilya",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Yünsa",
-        "kategori": "Tekstil",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Reysaş",
-        "kategori": "Lojistik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Anadolu Isuzu",
-        "kategori": "Otomotiv",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Karel",
-        "kategori": "Telekomünikasyon",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ege Seramik",
-        "kategori": "İnşaat Malzemesi",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Kütahya Porselen",
-        "kategori": "Sofra Eşyası",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Evyap",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Naturelive",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Duru",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Bingo",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Peros",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Ersağ",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Viking",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Paksoy",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Eti Matik",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Molped",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "ABC",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Dalin",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Molfix",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Emotion",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Familia",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Papia",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Teno",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tex",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Mintax",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Aromel",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "İdil",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Arko",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Bioxin",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Otacı",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Biobelinda",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Activex",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Spumy",
-        "kategori": "Temizlik",
-        "yerli_mi": true
-    },
-    {
-        "marka": "Tropicana",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Schweppes",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Tnuva",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Nescafe",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Tassimo",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Starbucks",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Lipton",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Dilmah",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Elite",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Strauss",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Walls",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Ben & Jerry's",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Carmel Agrexco",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Agrexco",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Coca-Cola",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Pepsi Co",
-        "kategori": "Gıda",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Tommy Hilfiger",
-        "kategori": "Giyim",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Nike",
-        "kategori": "Giyim",
-        "yerli_mi": false
-    },
-    {
-        "marka": "Mustela",
-        "kategori": "Bebek Bakım & Sağlık",
-        "yerli_mi": false
-    }
+     {
+          "marka": "Türk Hava Yolları",
+          "kategori": "Havayolu",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Arçelik",
+          "kategori": "Dayanıklı Tüketim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ford Otosan",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Vestel",
+          "kategori": "Dayanıklı Tüketim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Turkcell",
+          "kategori": "Telekom",
+          "yerli_mi": true
+     },
+     {
+          "marka": "LC Waikiki",
+          "kategori": "Hazır Giyim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Garanti BBVA",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "BİM",
+          "kategori": "Perakende – Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "İş Bankası",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Türk Telekom",
+          "kategori": "Telekom",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ziraat Bankası",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Akbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Yapı Kredi",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "BSH",
+          "kategori": "Dayanıklı Tüketim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Vakıfbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Migros",
+          "kategori": "Perakende – Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Opet",
+          "kategori": "Perakende – Akaryakıt",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ülker",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Petrol Ofisi",
+          "kategori": "Perakende – Akaryakıt",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aselsan",
+          "kategori": "Teknoloji – Savunma",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Enerjisa",
+          "kategori": "Elektrik Dağıtım",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Halkbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tofaş",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Anadolu Efes",
+          "kategori": "Alkollü İçecek",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Denizbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Şişe Cam",
+          "kategori": "Cam",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Şok",
+          "kategori": "Perakende – Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Doğuş Otomotiv",
+          "kategori": "Otomotiv Dağıtım",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Sütaş",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Türk Tuborg",
+          "kategori": "Alkollü İçecek",
+          "yerli_mi": true
+     },
+     {
+          "marka": "İGA",
+          "kategori": "Havalimanı",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Pegasus",
+          "kategori": "Havayolu",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Mavi",
+          "kategori": "Hazır Giyim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Enka",
+          "kategori": "İnşaat",
+          "yerli_mi": true
+     },
+     {
+          "marka": "TürkTraktör",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Otokoç",
+          "kategori": "Otomotiv Dağıtım",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Yayla",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "TEB",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "TAV",
+          "kategori": "İnşaat – Havalimanı İşletme",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Brisa",
+          "kategori": "Oto Lastik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tusaş",
+          "kategori": "Havacılık – Savunma",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Koton",
+          "kategori": "Hazır Giyim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Medical Park",
+          "kategori": "Sağlık",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Pınar",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Yataş",
+          "kategori": "Ev Mobilya",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Otokar",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "KoçSistem",
+          "kategori": "Bilişim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Do&Co",
+          "kategori": "İkram",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Odeabank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "SuperFresh",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Anadolu Sigorta",
+          "kategori": "Sigorta",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Albaraka Türk",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Netlog",
+          "kategori": "Lojistik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Beşiktaş",
+          "kategori": "Futbol Kulübü",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Agesa",
+          "kategori": "Sigorta",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Fenerbahçe",
+          "kategori": "Futbol Kulübü",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Kordsa",
+          "kategori": "Kimya",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Anadolu Hayat",
+          "kategori": "Sigorta",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ekol",
+          "kategori": "Lojistik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Koçtaş",
+          "kategori": "Perakende – Ev Geliştirme",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aygaz",
+          "kategori": "LPG Dağıtım",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Galatasaray",
+          "kategori": "Futbol Kulübü",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Emlak Konut",
+          "kategori": "GYO",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Carrefoursa",
+          "kategori": "Perakende – Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Kervan",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Petlas",
+          "kategori": "Oto Lastik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Logo",
+          "kategori": "Bilişim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Teknosa",
+          "kategori": "Perakende – Teknoloji",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Türkiye Sigorta",
+          "kategori": "Sigorta",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Banvit",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Alternatifbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Borsa Istanbul",
+          "kategori": "Borsa",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aksigorta",
+          "kategori": "Sigorta",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Vakko",
+          "kategori": "Hazır Giyim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aytemiz",
+          "kategori": "Perakende – Akaryakıt",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tukaş",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Kent",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "TSKB",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Şekerbank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Karsan",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Trabzonspor",
+          "kategori": "Futbol Kulübü",
+          "yerli_mi": true
+     },
+     {
+          "marka": "İndeks",
+          "kategori": "Teknoloji Dağıtım",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Arena",
+          "kategori": "Bilişim",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Sabiha Gökçen",
+          "kategori": "Havalimanı",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Mars",
+          "kategori": "Lojistik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aktif Bank",
+          "kategori": "Banka",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Arzum",
+          "kategori": "Küçük Ev Aletleri",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tat",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Netaş",
+          "kategori": "Telekomünikasyon",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Dardanel",
+          "kategori": "Gıda",
+          "yerli_mi": true
+     },
+     {
+          "marka": "DYO",
+          "kategori": "Kimya",
+          "yerli_mi": true
+     },
+     {
+          "marka": "İnci Akü",
+          "kategori": "Otomotiv Yan Sanayi",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Bossa",
+          "kategori": "Tekstil",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Doğtaş Kelebek",
+          "kategori": "Ev Mobilya",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Yünsa",
+          "kategori": "Tekstil",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Reysaş",
+          "kategori": "Lojistik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Anadolu Isuzu",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Karel",
+          "kategori": "Telekomünikasyon",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ege Seramik",
+          "kategori": "İnşaat Malzemesi",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Kütahya Porselen",
+          "kategori": "Sofra Eşyası",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Evyap",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Naturelive",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Duru",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Bingo",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Peros",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Ersağ",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Viking",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Paksoy",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Eti Matik",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Molped",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "ABC",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Dalin",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Molfix",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Emotion",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Familia",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Papia",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Teno",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tex",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Mintax",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Aromel",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "İdil",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Arko",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Bioxin",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Otacı",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Biobelinda",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Activex",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Spumy",
+          "kategori": "Temizlik",
+          "yerli_mi": true
+     },
+     {
+          "marka": "Tropicana",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Schweppes",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Tnuva",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Nescafe",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Tassimo",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Starbucks",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Lipton",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Dilmah",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Elite",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Strauss",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Walls",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Ben & Jerry's",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Carmel Agrexco",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Agrexco",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Coca-Cola",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Pepsi Co",
+          "kategori": "Gıda",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Tommy Hilfiger",
+          "kategori": "Giyim",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Nike",
+          "kategori": "Giyim",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Mustela",
+          "kategori": "Bebek Bakım & Sağlık",
+          "yerli_mi": false
+     },
+     {
+          "marka": "Apple",
+          "kategori": "Cep Telefonu",
+          "yerli_mi": false
+     }
 ]
