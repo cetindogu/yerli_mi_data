@@ -823,5 +823,10 @@
           "marka": "Filiz ",
           "kategori": "Makarna",
           "yerli_mi": false
+     },
+     {
+          "marka": "Dyson",
+          "kategori": "Elektronik",
+          "yerli_mi": false
      }
 ]
