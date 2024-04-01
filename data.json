@@ -738,5 +738,10 @@
           "marka": "Banat",
           "kategori": "Ağız & Diş Bakımı",
           "yerli_mi": true
+     },
+     {
+          "marka": "Yıldız Sakız",
+          "kategori": "Sakız",
+          "yerli_mi": true
      }
 ]
