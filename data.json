@@ -758,5 +758,10 @@
           "marka": "Ariel",
           "kategori": "Deterjan",
           "yerli_mi": false
+     },
+     {
+          "marka": "Şölen",
+          "kategori": "Gıda",
+          "yerli_mi": true
      }
 ]
