@@ -773,5 +773,10 @@
           "marka": "Kola Turka",
           "kategori": "İçecek ",
           "yerli_mi": false
+     },
+     {
+          "marka": "Twitter",
+          "kategori": "Sosyal Medya",
+          "yerli_mi": false
      }
 ]
