@@ -768,5 +768,10 @@
           "marka": "Fairy",
           "kategori": "Detarjan",
           "yerli_mi": false
+     },
+     {
+          "marka": "Kola Turka",
+          "kategori": "İçecek ",
+          "yerli_mi": false
      }
 ]
