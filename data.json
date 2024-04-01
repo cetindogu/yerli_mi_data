@@ -748,5 +748,10 @@
           "marka": "Uludağ",
           "kategori": "İçecek",
           "yerli_mi": true
+     },
+     {
+          "marka": "TOGG",
+          "kategori": "Otomotiv",
+          "yerli_mi": true
      }
 ]
