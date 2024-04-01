@@ -828,5 +828,10 @@
           "marka": "Dyson",
           "kategori": "Elektronik",
           "yerli_mi": false
+     },
+     {
+          "marka": "Termikel",
+          "kategori": "Ankastre",
+          "yerli_mi": true
      }
 ]
