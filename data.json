@@ -793,5 +793,10 @@
           "marka": "Blu Tv",
           "kategori": "Dijital Platform",
           "yerli_mi": false
+     },
+     {
+          "marka": "Netflix",
+          "kategori": "Dijital Platform",
+          "yerli_mi": false
      }
 ]
