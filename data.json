@@ -743,5 +743,10 @@
           "marka": "Yıldız Sakız",
           "kategori": "Sakız",
           "yerli_mi": true
+     },
+     {
+          "marka": "Uludağ",
+          "kategori": "İçecek",
+          "yerli_mi": true
      }
 ]
