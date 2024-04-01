@@ -803,5 +803,10 @@
           "marka": "Samsung",
           "kategori": "Elektronik",
           "yerli_mi": false
+     },
+     {
+          "marka": "TCL",
+          "kategori": "Elektronik",
+          "yerli_mi": false
      }
 ]
