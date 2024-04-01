@@ -733,5 +733,10 @@
           "marka": "Apple",
           "kategori": "Cep Telefonu",
           "yerli_mi": false
+     },
+     {
+          "marka": "Banat",
+          "kategori": "Ağız & Diş Bakımı",
+          "yerli_mi": true
      }
 ]
