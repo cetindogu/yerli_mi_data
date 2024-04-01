@@ -783,5 +783,10 @@
           "marka": "Sofio",
           "kategori": "Bebek Bezi",
           "yerli_mi": true
+     },
+     {
+          "marka": "Avent",
+          "kategori": "Biberon",
+          "yerli_mi": false
      }
 ]
