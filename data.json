@@ -798,5 +798,10 @@
           "marka": "Netflix",
           "kategori": "Dijital Platform",
           "yerli_mi": false
+     },
+     {
+          "marka": "Samsung",
+          "kategori": "Elektronik",
+          "yerli_mi": false
      }
 ]
