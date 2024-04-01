@@ -808,5 +808,10 @@
           "marka": "TCL",
           "kategori": "Elektronik",
           "yerli_mi": false
+     },
+     {
+          "marka": "Çamlıca",
+          "kategori": "Gazoz",
+          "yerli_mi": false
      }
 ]
