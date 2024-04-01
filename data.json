@@ -763,5 +763,10 @@
           "marka": "Şölen",
           "kategori": "Gıda",
           "yerli_mi": true
+     },
+     {
+          "marka": "Fairy",
+          "kategori": "Detarjan",
+          "yerli_mi": false
      }
 ]
