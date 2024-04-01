@@ -753,5 +753,10 @@
           "marka": "TOGG",
           "kategori": "Otomotiv",
           "yerli_mi": true
+     },
+     {
+          "marka": "Ariel",
+          "kategori": "Deterjan",
+          "yerli_mi": false
      }
 ]
