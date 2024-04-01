@@ -778,5 +778,10 @@
           "marka": "Twitter",
           "kategori": "Sosyal Medya",
           "yerli_mi": false
+     },
+     {
+          "marka": "Sofio",
+          "kategori": "Bebek Bezi",
+          "yerli_mi": true
      }
 ]
