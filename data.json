@@ -788,5 +788,10 @@
           "marka": "Avent",
           "kategori": "Biberon",
           "yerli_mi": false
+     },
+     {
+          "marka": "Blu Tv",
+          "kategori": "Dijital Platform",
+          "yerli_mi": false
      }
 ]
