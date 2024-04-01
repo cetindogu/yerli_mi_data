@@ -813,5 +813,10 @@
           "marka": "Çamlıca",
           "kategori": "Gazoz",
           "yerli_mi": false
+     },
+     {
+          "marka": "Damla",
+          "kategori": "Su",
+          "yerli_mi": false
      }
 ]
