@@ -15,11 +15,6 @@
         "yerli_mi": true
     },
     {
-        "kategori": "Dayanıklı Tüketim",
-        "marka": "Vestel",
-        "yerli_mi": true
-    },
-    {
         "kategori": "Telekom",
         "marka": "Turkcell",
         "yerli_mi": true
@@ -75,18 +70,8 @@
         "yerli_mi": true
     },
     {
-        "kategori": "Perakende – Gıda",
-        "marka": "Migros",
-        "yerli_mi": true
-    },
-    {
         "kategori": "Perakende – Akaryakıt",
         "marka": "Opet",
-        "yerli_mi": true
-    },    
-    {
-        "kategori": "Perakende – Akaryakıt",
-        "marka": "Petrol Ofisi",
         "yerli_mi": true
     },
     {
@@ -122,11 +107,6 @@
     {
         "kategori": "Cam",
         "marka": "Şişe Cam",
-        "yerli_mi": true
-    },
-    {
-        "kategori": "Perakende – Gıda",
-        "marka": "Şok",
         "yerli_mi": true
     },
     {
@@ -177,11 +157,6 @@
     {
         "kategori": "Gıda",
         "marka": "Yayla",
-        "yerli_mi": true
-    },
-    {
-        "kategori": "Banka",
-        "marka": "TEB",
         "yerli_mi": true
     },
     {
@@ -360,11 +335,6 @@
         "yerli_mi": true
     },
     {
-        "kategori": "Hazır Giyim",
-        "marka": "Vakko",
-        "yerli_mi": true
-    },
-    {
         "kategori": "Perakende – Akaryakıt",
         "marka": "Aytemiz",
         "yerli_mi": true
@@ -373,12 +343,7 @@
         "kategori": "Gıda",
         "marka": "Tukaş",
         "yerli_mi": true
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Kent",
-        "yerli_mi": true
-    },
+    },   
     {
         "kategori": "Banka",
         "marka": "TSKB",
@@ -412,11 +377,6 @@
     {
         "kategori": "Havalimanı",
         "marka": "Sabiha Gökçen",
-        "yerli_mi": true
-    },
-    {
-        "kategori": "Lojistik",
-        "marka": "Mars",
         "yerli_mi": true
     },
     {
@@ -631,41 +591,6 @@
     },
     {
         "kategori": "Gıda",
-        "marka": "Tropicana",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Schweppes",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Tnuva",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Nescafe",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Tassimo",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Starbucks",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Lipton",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
         "marka": "Dilmah",
         "yerli_mi": false
     },
@@ -710,25 +635,10 @@
         "yerli_mi": false
     },
     {
-        "kategori": "Giyim",
-        "marka": "Tommy Hilfiger",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Giyim",
-        "marka": "Nike",
-        "yerli_mi": false
-    },
-    {
         "kategori": "Bebek Bakım & Sağlık",
         "marka": "Mustela",
         "yerli_mi": false
-    },
-    {
-        "kategori": "Cep Telefonu",
-        "marka": "Apple",
-        "yerli_mi": false
-    },
+    },    
     {
         "kategori": "Ağız & Diş Bakımı",
         "marka": "Banat",
@@ -748,30 +658,15 @@
         "kategori": "Otomotiv",
         "marka": "TOGG",
         "yerli_mi": true
-    },
-    {
-        "kategori": "Deterjan",
-        "marka": "Ariel",
-        "yerli_mi": false
-    },
+    },   
     {
         "kategori": "Gıda",
         "marka": "Şölen",
         "yerli_mi": true
-    },
-    {
-        "kategori": "Detarjan",
-        "marka": "Fairy",
-        "yerli_mi": false
-    },
+    },   
     {
         "kategori": "İçecek ",
         "marka": "Kola Turka",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Sosyal Medya",
-        "marka": "Twitter",
         "yerli_mi": false
     },
     {
@@ -790,11 +685,6 @@
         "yerli_mi": false
     },
     {
-        "kategori": "Dijital Platform",
-        "marka": "Netflix",
-        "yerli_mi": false
-    },
-    {
         "kategori": "Elektronik",
         "marka": "Samsung",
         "yerli_mi": false
@@ -807,11 +697,6 @@
     {
         "kategori": "Gazoz",
         "marka": "Çamlıca",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Su",
-        "marka": "Damla",
         "yerli_mi": false
     },
     {
@@ -4852,15 +4737,7 @@
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
         "marka": "Cif",
         "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/cif2122.jpg",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Cif",
-        "yerli_mi": false
-    },
+    },    
     {
         "boykotMu": true,
         "iconUrl": "https://cdn.sanity.io/images/92ui5egz/production/608f7d6ddf070c55d693604ceb8c79c7dede273f-1080x1080.jpg?w=375&h=375&fit=crop&auto=format",
@@ -5715,7 +5592,7 @@
         "kategori": "Süpermarket",
         "kaynakUrl": "https://onedio.com/haber/migros-aciklama-yapti-konseri-iptal-edilen-fazil-say-a-destek-yagdi-1180162",
         "marka": "Migros",
-        "yerli_mi": false
+        "yerli_mi": true
     },
     {
         "boykotMu": true,
@@ -5723,7 +5600,7 @@
         "kategori": "Süpermarket",
         "kaynakUrl": "https://twitter.com/gidaajansi/status/1755264056452116574?t=KA0BE2V32vW_kKJY5B9s3A&s=19",
         "marka": "Şok",
-        "yerli_mi": false
+        "yerli_mi": true
     },
     {
         "boykotMu": true,
@@ -5763,7 +5640,7 @@
         "kategori": "Teknoloji",
         "kaynakUrl": "https://islamianaliz.com/haber/18020480/bdsden-cagri-vesteli-de-boykot-listemize-ekliyoruz",
         "marka": "Vestel",
-        "yerli_mi": false
+        "yerli_mi": true
     },
     {
         "boykotMu": true,
