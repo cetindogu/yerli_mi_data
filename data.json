@@ -343,7 +343,7 @@
         "kategori": "Gıda",
         "marka": "Tukaş",
         "yerli_mi": true
-    },   
+    },
     {
         "kategori": "Banka",
         "marka": "TSKB",
@@ -638,7 +638,7 @@
         "kategori": "Bebek Bakım & Sağlık",
         "marka": "Mustela",
         "yerli_mi": false
-    },    
+    },
     {
         "kategori": "Ağız & Diş Bakımı",
         "marka": "Banat",
@@ -658,12 +658,12 @@
         "kategori": "Otomotiv",
         "marka": "TOGG",
         "yerli_mi": true
-    },   
+    },
     {
         "kategori": "Gıda",
         "marka": "Şölen",
         "yerli_mi": true
-    },   
+    },
     {
         "kategori": "İçecek ",
         "marka": "Kola Turka",
@@ -4737,7 +4737,7 @@
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
         "marka": "Cif",
         "yerli_mi": false
-    },    
+    },
     {
         "boykotMu": true,
         "iconUrl": "https://cdn.sanity.io/images/92ui5egz/production/608f7d6ddf070c55d693604ceb8c79c7dede273f-1080x1080.jpg?w=375&h=375&fit=crop&auto=format",
