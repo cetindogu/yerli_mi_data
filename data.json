@@ -83,12 +83,7 @@
         "kategori": "Perakende – Akaryakıt",
         "marka": "Opet",
         "yerli_mi": true
-    },
-    {
-        "kategori": "Gıda",
-        "marka": "Ülker",
-        "yerli_mi": true
-    },
+    },    
     {
         "kategori": "Perakende – Akaryakıt",
         "marka": "Petrol Ofisi",
@@ -2832,7 +2827,7 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://twitter.com/ErdemOzveren571/status/1739733021748514980?t=zYNcVJxhBI439XO6M8JPQA&s=19",
         "marka": "Ülker",
-        "yerli_mi": false
+        "yerli_mi": true
     },
     {
         "boykotMu": true,
