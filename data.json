@@ -860,18 +860,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.gm.com/etc/designs/gbs/components/topbar/img/GM-logo-2021.png",
-        "kategori": "Otomotiv",
-        "kaynakUrl": "https://www.mepanews.com/simdiye-kadar-hangi-sirketler-israile-destegini-acikladi-63284h.htm",
-        "marka": "General Motors",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/8/8a/Dodge_amblem.JPG",
         "kategori": "Otomotiv",
         "kaynakUrl": "https://www.greateraltoonajewishfederation.org/articles/companies.html",
         "marka": "Dodge",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.gm.com/etc/designs/gbs/components/topbar/img/GM-logo-2021.png",
+        "kategori": "Otomotiv",
+        "kaynakUrl": "https://www.mepanews.com/simdiye-kadar-hangi-sirketler-israile-destegini-acikladi-63284h.htm",
+        "marka": "General Motors",
         "yerli_mi": false
     },
     {
@@ -892,18 +892,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SCANIA_Logo_vector.svg/520px-SCANIA_Logo_vector.svg.png",
-        "kategori": "Otomotiv",
-        "kaynakUrl": "https://tr.wikipedia.org/wiki/Scania_AB",
-        "marka": "Scania AB",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MAN_Truck_%26_Bus_-_Logo.svg/520px-MAN_Truck_%26_Bus_-_Logo.svg.png",
         "kategori": "Otomotiv",
         "kaynakUrl": "https://tr.wikipedia.org/wiki/MAN_Truck_%26_Bus_AG",
         "marka": "MAN Truck & Bus AG",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SCANIA_Logo_vector.svg/520px-SCANIA_Logo_vector.svg.png",
+        "kategori": "Otomotiv",
+        "kaynakUrl": "https://tr.wikipedia.org/wiki/Scania_AB",
+        "marka": "Scania AB",
         "yerli_mi": false
     },
     {
@@ -926,7 +926,7 @@
         "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyueq41xOXMM_8bo57jX7_LjHMFQU10ZWnB-sukXkq64kyf2tzFxuloTo8q4uFuHafB0&usqp=CAU",
         "kategori": "Giyim - Tekstil",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#5a38352331352e39351a3d373b33367439353765292f38303f392e679eea2e33283b20607a09313f39323f28297c38353e23679eea2e33283b207a293f383f383334337a233b209eeb349eeb2060",
+        "kaynakUrl": null,
         "marka": "Skechers",
         "yerli_mi": false
     },
@@ -942,7 +942,7 @@
         "boykotMu": true,
         "iconUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMczCJZvxMpZSB-Gm8lieR0tP_b3k2VEv2CD3UaRCytUIm0xJd",
         "kategori": "Giyim - Tekstil",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#93f1fceaf8fce7f0fcd3f4fef2faffbdf0fcfeace0e6f1f9f6f0e7ae5723e7fae1f2e9a9b3c6c0b3c3dcdfdcb3d2bdc0bdc0bdddb3b5f1fcf7eaae5723e7fae1f2e9b3e0f6f1f6f1fafdfab3eaf2e95722fd5722e9a9",
+        "kaynakUrl": null,
         "marka": "US POLO A.S.S.N",
         "yerli_mi": false
     },
@@ -1068,18 +1068,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gap_logo.svg/2048px-Gap_logo.svg.png",
-        "kategori": "Giyim - Tekstil",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#d2b0bdabb9bda6b1bd92b5bfb3bbbefcb1bdbfeda1a7b0b8b7b1a6ef1662a6bba0b3a8e8f295b3a2f4b0bdb6abef1662a6bba0b3a8f2a1b7b0b7b0bbbcbbf2abb3a81663bc1663a8e8",
-        "marka": "Gap",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://cdn.britannica.com/94/193794-050-0FB7060D/Adidas-logo.jpg",
         "kategori": "Giyim - Tekstil",
         "kaynakUrl": "https://web.archive.org/web/20231130143751/https://www.timesofisrael.com/never-again-is-now-german-companies-condemn-hamas-terror-stand-with-israel",
         "marka": "Adidas Grup",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gap_logo.svg/2048px-Gap_logo.svg.png",
+        "kategori": "Giyim - Tekstil",
+        "kaynakUrl": null,
+        "marka": "Gap",
         "yerli_mi": false
     },
     {
@@ -1316,6 +1316,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1YYrzsQuC8LtupuAkWpCGwTBNDcYIIZaRBu8lfz0skfWgXguYhXLEAVuygmHpujRYGo&usqp=CAU",
+        "kategori": "Giyim - Tekstil",
+        "kaynakUrl": null,
+        "marka": "Gottex",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Honigman.png",
         "kategori": "Giyim - Tekstil",
         "kaynakUrl": "https://en.wikipedia.org/wiki/Honigman",
@@ -1340,17 +1348,9 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1YYrzsQuC8LtupuAkWpCGwTBNDcYIIZaRBu8lfz0skfWgXguYhXLEAVuygmHpujRYGo&usqp=CAU",
-        "kategori": "Giyim - Tekstil",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#4b29243220243f28240b2c262a22276528242674383e29212e283f768ffb3f22392a31716b0c243f3f2e336d29242f32768ffb3f22392a316b382e292e292225226b322a318ffa258ffa3171",
-        "marka": "Gottex",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/5/53/Tchibo_logo.png",
         "kategori": "Kahve",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#f694998f9d99829599b6919b979f9ad895999bc98583949c939582cb3246829f84978cccd6a2959e9f9499d09499928fcb3246829f84978cd685939493949f989fd68f978c32479832478ccc",
+        "kaynakUrl": null,
         "marka": "Tchibo",
         "yerli_mi": false
     },
@@ -1580,6 +1580,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/ZIM_Icon_300x300.png",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://investors.zim.com/overview/default.aspx#:~:text=Launched%20in%20Israel%20in%201945,in%20over%20350%20ports%20worldwide.",
+        "marka": "ZIM",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://seeklogo.com/images/C/clipper-logo-7E7BF8928C-seeklogo.com.png",
         "kategori": "İşletme",
         "kaynakUrl": "https://monadalt.com/clipper/en/about-us/",
@@ -1592,14 +1600,6 @@
         "kategori": "İşletme",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
         "marka": "Pattex",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/ZIM_Icon_300x300.png",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://investors.zim.com/overview/default.aspx#:~:text=Launched%20in%20Israel%20in%201945,in%20over%20350%20ports%20worldwide.",
-        "marka": "ZIM",
         "yerli_mi": false
     },
     {
@@ -1652,18 +1652,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://mex.mars.com/sites/g/files/jydpyr496/files/styles/brands_grid/public/2019-02/cesar_0.png?itok=GEVTqpe5",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Cesar",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/American_Girl_Logo.svg/1024px-American_Girl_Logo.svg.png",
         "kategori": "İşletme",
         "kaynakUrl": "https://variety.com/2023/film/news/hollywood-studios-israel-palestine-hamas-attacks-1235753540/",
         "marka": "Americal Girl",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://mex.mars.com/sites/g/files/jydpyr496/files/styles/brands_grid/public/2019-02/cesar_0.png?itok=GEVTqpe5",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Cesar",
         "yerli_mi": false
     },
     {
@@ -1732,22 +1732,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://seeklogo.com/images/C/cat-chow-logo-F520546F06-seeklogo.com.png",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
-        "marka": "Cat Chow",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/320px-Mars_Incorporated_2019_logo.svg.png",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Asia Veterinary Diagnostics",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.henkel-northamerica.com/resource/image/22588/1x1/1000/1000/36a0a800ff0a8d70961a0e927eb58837/FC64D42630AB8CBFF380E101537EA8BB/loctite-logo.webp",
         "kategori": "İşletme",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
@@ -1756,10 +1740,26 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://seeklogo.com/images/C/cat-chow-logo-F520546F06-seeklogo.com.png",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
+        "marka": "Cat Chow",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://cdn.cookielaw.org/logos/5f2759ff-9efe-412c-a3be-f13092d2c945/2c83c018-4a24-4a7a-874b-59a418226282/5b01b668-1143-462f-9075-431bdfb00ac7/logo_stacked_small.png",
         "kategori": "İşletme",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Nom Nom",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/320px-Mars_Incorporated_2019_logo.svg.png",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Asia Veterinary Diagnostics",
         "yerli_mi": false
     },
     {
@@ -1828,18 +1828,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8Y9Am8TtsagCTGgEcpeSWmNuFxwMApUSG3Zh7oykfA&s",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Chappie",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://can.mars.com/sites/g/files/jydpyr481/files/styles/brands_grid/public/2019-05/aquarian-logo.png?itok=I755tZKl",
         "kategori": "İşletme",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Aquarian",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8Y9Am8TtsagCTGgEcpeSWmNuFxwMApUSG3Zh7oykfA&s",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Chappie",
         "yerli_mi": false
     },
     {
@@ -1856,6 +1856,14 @@
         "kategori": "İşletme",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Misfits",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2jT0iyHxS3QbCSe8CF05NDnEETQK6QvsDMe6hFcgZKMs-j8yj_uNc2jfDmQAxSEwgY8&usqp=CAU",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Vsh",
         "yerli_mi": false
     },
     {
@@ -1884,10 +1892,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2jT0iyHxS3QbCSe8CF05NDnEETQK6QvsDMe6hFcgZKMs-j8yj_uNc2jfDmQAxSEwgY8&usqp=CAU",
+        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_BUSINESS_SEGMENTS_12.png",
         "kategori": "İşletme",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Vsh",
+        "marka": "Blue Pearl",
         "yerli_mi": false
     },
     {
@@ -1900,10 +1908,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_BUSINESS_SEGMENTS_12.png",
+        "iconUrl": "https://www.starr-lawfirm.com/wp-content/uploads/2017/05/related-companies-logo.jpg",
         "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Blue Pearl",
+        "kaynakUrl": "https://yale.app.box.com/s/us47ep2sxbcv7geoob3u2lif5rb9502k",
+        "marka": "Related Companies",
         "yerli_mi": false
     },
     {
@@ -1940,18 +1948,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.starr-lawfirm.com/wp-content/uploads/2017/05/related-companies-logo.jpg",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://yale.app.box.com/s/us47ep2sxbcv7geoob3u2lif5rb9502k",
-        "marka": "Related Companies",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.livenationentertainment.com/wp-content/themes/lne/img/logo.png",
         "kategori": "İşletme",
         "kaynakUrl": "https://som.yale.edu/story/2023/list-companies-have-condemned-hamas-terrorist-attack-israel",
         "marka": "Live Nation Entertainment",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR1CiYbNb0eYCeRDSzesfC1aBmIWeC4fNh-UMpqM5fmmFZ3jvExbce0q7jNSsLYv9EfM&usqp=CAU",
+        "kategori": "İşletme",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Petcare",
         "yerli_mi": false
     },
     {
@@ -1968,14 +1976,6 @@
         "kategori": "İşletme",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Mount Pleasant",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR1CiYbNb0eYCeRDSzesfC1aBmIWeC4fNh-UMpqM5fmmFZ3jvExbce0q7jNSsLYv9EfM&usqp=CAU",
-        "kategori": "İşletme",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Petcare",
         "yerli_mi": false
     },
     {
@@ -2140,18 +2140,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://files.sikayetvar.com/lg/cmp/32/3205.png?1566219105",
-        "kategori": "İçecek",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Hayat Su",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.bim.com.tr/uploads/markalar/2_4_dost_logo.png",
         "kategori": "İçecek",
         "kaynakUrl": "https://www.malatyatime.com/haber/dost-sut-kimin-boykot-devam-ediyor-dost-sut-sahibi-kim-94614",
         "marka": "Dost Süt",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://files.sikayetvar.com/lg/cmp/32/3205.png?1566219105",
+        "kategori": "İçecek",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Hayat Su",
         "yerli_mi": false
     },
     {
@@ -2196,18 +2196,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://seeklogo.com/images/M/monster-energy-logo-0F8F04E041-seeklogo.com.png",
-        "kategori": "İçecek",
-        "kaynakUrl": "https://www-theguardian-com.translate.goog/world/2017/sep/28/un-human-rights-warning-letter-firms-palestine-territories-occupied-israel?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr",
-        "marka": "Monster",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.coca-cola.com/content/dam/onexp/tr/tr/brands/damla/es_damla_logo_180x180.png",
         "kategori": "İçecek",
         "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
         "marka": "Damla",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://seeklogo.com/images/M/monster-energy-logo-0F8F04E041-seeklogo.com.png",
+        "kategori": "İçecek",
+        "kaynakUrl": "https://www-theguardian-com.translate.goog/world/2017/sep/28/un-human-rights-warning-letter-firms-palestine-territories-occupied-israel?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr",
+        "marka": "Monster",
         "yerli_mi": false
     },
     {
@@ -2294,7 +2294,7 @@
         "boykotMu": true,
         "iconUrl": "https://cdn.icon-icons.com/icons2/2699/PNG/512/shell_logo_icon_169759.png",
         "kategori": "Enerji",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#ddbfb2a4b6b2a9beb29dbab0bcb4b1f3beb2b0e2aea8bfb7b8bea9e0196da9b4afbca7e7fd8eb5b8b1b1fbbfb2b9a4e0196da9b4afbca7fdaeb8bfb8bfb4b3b4fda4bca7196cb3196ca7e7",
+        "kaynakUrl": null,
         "marka": "Shell",
         "yerli_mi": false
     },
@@ -2508,18 +2508,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BNP_Paribas.png/220px-BNP_Paribas.png",
-        "kategori": "Finans",
-        "kaynakUrl": "https://www.banktrack.org/article/bnp_paribas_under_the_spotlight_for_major_exposure_to_companies_supporting_illegal_israeli_settlements",
-        "marka": "Bnp Paribas",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.hsbc.com/-/files/hsbc/header/hsbc-logo-200x25.svg?h=25&la=en-GB&hash=EFB19274CD17649AE659D3351B595180",
         "kategori": "Finans",
         "kaynakUrl": "https://waronwant.org/sites/default/files/Final%20Web%20version%20Deadly%20Investments.pdf",
         "marka": "Hsbc",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BNP_Paribas.png/220px-BNP_Paribas.png",
+        "kategori": "Finans",
+        "kaynakUrl": "https://www.banktrack.org/article/bnp_paribas_under_the_spotlight_for_major_exposure_to_companies_supporting_illegal_israeli_settlements",
+        "marka": "Bnp Paribas",
         "yerli_mi": false
     },
     {
@@ -2574,7 +2574,7 @@
         "boykotMu": true,
         "iconUrl": "https://www.goldmansachs.com/a/pgs/images/logo.svg",
         "kategori": "Finans",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#5d3f32243632293e321d3a303c3431733e3230622e283f37383e296099ed29342f3c27677d1a323139303c337d0e3c3e352e7b3f3239246099ed29342f3c277d2e383f383f3433347d243c2799ec3399ec2767",
+        "kaynakUrl": null,
         "marka": "Goldman Sachs",
         "yerli_mi": false
     },
@@ -2652,22 +2652,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/citadel-llc2177.logowik.com.webp",
-        "kategori": "Finans",
-        "kaynakUrl": "https://nypost.com/2023/10/16/harvard-condemned-hamas-after-complaint-from-donor-ken-griffin/",
-        "marka": "Citadel",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://logos-world.net/wp-content/uploads/2022/06/BGG-Logo.png",
-        "kategori": "Finans",
-        "kaynakUrl": "https://som.yale.edu/story/2023/list-companies-have-condemned-hamas-terrorist-attack-israel",
-        "marka": "Bcg",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://ciginc.net/wp-content/uploads/2017/02/cascade-logo.png",
         "kategori": "Finans",
         "kaynakUrl": "https://twitter.com/satyanadella/status/1711979964709605518",
@@ -2676,10 +2660,26 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/citadel-llc2177.logowik.com.webp",
+        "kategori": "Finans",
+        "kaynakUrl": "https://nypost.com/2023/10/16/harvard-condemned-hamas-after-complaint-from-donor-ken-griffin/",
+        "marka": "Citadel",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpBlID13xSWukdZ5MlKWVf6FIT_hIMSnUlENKx8Fg&s",
         "kategori": "Finans",
         "kaynakUrl": "https://www.nytimes.com/2023/10/15/business/harvard-upenn-hamas-israel-students-donors.html",
         "marka": "Baupostgroup",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://logos-world.net/wp-content/uploads/2022/06/BGG-Logo.png",
+        "kategori": "Finans",
+        "kaynakUrl": "https://som.yale.edu/story/2023/list-companies-have-condemned-hamas-terrorist-attack-israel",
+        "marka": "Bcg",
         "yerli_mi": false
     },
     {
@@ -2712,14 +2712,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://twitter.com/ErdemOzveren571/status/1739733021748514980?t=zYNcVJxhBI439XO6M8JPQA&s=19",
         "marka": "Ülker",
-        "yerli_mi": true
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://us.coca-cola.com/content/dam/nagbrands/us/coke/en/coca-cola-logo.svg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
-        "marka": "Coca Cola",
         "yerli_mi": false
     },
     {
@@ -2732,10 +2724,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.bim.com.tr/uploads/markalar/2_4_dost_logo.png",
+        "iconUrl": "https://us.coca-cola.com/content/dam/nagbrands/us/coke/en/coca-cola-logo.svg",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.unluco.com/basin-odasi/bultenler/ak-gida/",
-        "marka": "Dost Yoğurt",
+        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
+        "marka": "Coca Cola",
         "yerli_mi": false
     },
     {
@@ -2744,6 +2736,14 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
         "marka": "Kent",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.bim.com.tr/uploads/markalar/2_4_dost_logo.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.unluco.com/basin-odasi/bultenler/ak-gida/",
+        "marka": "Dost Yoğurt",
         "yerli_mi": false
     },
     {
@@ -2766,7 +2766,7 @@
         "boykotMu": true,
         "iconUrl": "https://files.sikayetvar.com/lg/cmp/25/25806.png?1522650125",
         "kategori": "Gıda",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#0c6e63756763786f634c6b616d6560226f6361337f796e66696f7831c8bc78657e6d76362c4e657ec9936d642a6e63687531c8bc78657e6d762c7f696e696e6562652c756d76c8bd62c8bd7636",
+        "kaynakUrl": null,
         "marka": "Birşah",
         "yerli_mi": false
     },
@@ -2812,6 +2812,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://www.pepsico.com.tr/images/librariesprovider16/product-information/yedig%C3%BCn/yedigun_logo_son.png?sfvrsn=34498b90_2",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "Yedigün",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgMaFS3Zel1jzfqPlTfj2tccTqenT_xy6MyBCXLDHBzXTH2sKlXyOG4CcYt99ekAigRg&usqp=CAU",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.ntv.com.tr/ekonomi/ofcay-abdli-jacobsa-satildi,6kT6gNDurEK6zWfWWDUzgg",
@@ -2824,14 +2832,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.mayniaga.com/is-kfc-supportive-of-israel-explained/",
         "marka": "Kfc",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://www.pepsico.com.tr/images/librariesprovider16/product-information/yedig%C3%BCn/yedigun_logo_son.png?sfvrsn=34498b90_2",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Yedigün",
         "yerli_mi": false
     },
     {
@@ -2892,14 +2892,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://akn-ayb.a-cdn.akinoncdn.com/products/2019/04/22/21789/6fab0c2d-0f29-4fca-ad52-ee75a3e1f0ff.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.instagram.com/reel/C1u3VMvM31_/?igsh=MWttcDdyc2t6NXM4Zw==",
-        "marka": "Birşah Krema",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/1509px-Pepsi_logo_2014.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
@@ -2908,9 +2900,17 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://akn-ayb.a-cdn.akinoncdn.com/products/2019/04/22/21789/6fab0c2d-0f29-4fca-ad52-ee75a3e1f0ff.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.instagram.com/reel/C1u3VMvM31_/?igsh=MWttcDdyc2t6NXM4Zw==",
+        "marka": "Birşah Krema",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2020/09/Sbarro-Logo.png",
         "kategori": "Gıda",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#f5979a8c9e9a81969ab59298949c99db969a98ca8680979f909681c83145819c87948fcfd5a6979487879ad3979a918cc83145819c87948fd586909790979c9b9cd58c948f31449b31448fcf",
+        "kaynakUrl": null,
         "marka": "Sbarro",
         "yerli_mi": false
     },
@@ -2920,14 +2920,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
         "marka": "Nestle",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/mutlu-makarna1915.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://detaygazetesi.org/haberdetay-27723-tuketen_mutlu_para_kazanan_mutlu.html",
-        "marka": "Mutlu Makarna",
         "yerli_mi": false
     },
     {
@@ -2944,6 +2936,14 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
         "marka": "Unilever Grup",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/mutlu-makarna1915.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://detaygazetesi.org/haberdetay-27723-tuketen_mutlu_para_kazanan_mutlu.html",
+        "marka": "Mutlu Makarna",
         "yerli_mi": false
     },
     {
@@ -3012,6 +3012,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/danone9911.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Danone",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://volimeks.com/wp-content/uploads/2020/03/T%C4%B0KVE%C5%9EL%C4%B0.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.strauss-group.com/partner/partnership_danone/",
@@ -3020,10 +3028,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/danone9911.jpg",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_Ferrero.svg/520px-Logo_Ferrero.svg.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Danone",
+        "kaynakUrl": "https://www.ferrero.com/int/en/locations",
+        "marka": "Ferrero",
         "yerli_mi": false
     },
     {
@@ -3060,10 +3068,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_Ferrero.svg/520px-Logo_Ferrero.svg.png",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/9/93/Sprite%28marka%29Logo.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.ferrero.com/int/en/locations",
-        "marka": "Ferrero",
+        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
+        "marka": "Sprite",
         "yerli_mi": false
     },
     {
@@ -3076,10 +3084,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/9/93/Sprite%28marka%29Logo.png",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/a/a3/Fanta_yeni_logo.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
-        "marka": "Sprite",
+        "marka": "Fanta",
         "yerli_mi": false
     },
     {
@@ -3088,14 +3096,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Snickers",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/a/a3/Fanta_yeni_logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
-        "marka": "Fanta",
         "yerli_mi": false
     },
     {
@@ -3116,6 +3116,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/e/ed/Carte_d%27Or_logo.png?20180802080822",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Carte Dor",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Oreo_alt.svg/2560px-Logo_Oreo_alt.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
@@ -3128,14 +3136,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://english.tau.ac.il/news/united-againt-terror-exhibit",
         "marka": "Pringles",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/e/ed/Carte_d%27Or_logo.png?20180802080822",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Carte Dor",
         "yerli_mi": false
     },
     {
@@ -3180,18 +3180,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/4/49/Aptamil-logo.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Aptamil",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/ef/Frito_Lay_logo.svg/1200px-Frito_Lay_logo.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
         "marka": "Fritolay",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/4/49/Aptamil-logo.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Aptamil",
         "yerli_mi": false
     },
     {
@@ -3204,14 +3204,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://avatars.mds.yandex.net/i?id=a46244d7d38b96163fb35e5c7036d379e1d2ebfb-9856853-images-thumbs&n=13",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.instagram.com/p/CybyIfJq3fw/?utm_source=ig_embed&ig_rid=9accc77f-439b-4ebe-aede-a38d02f38b84",
-        "marka": "Subway",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.ulker.com.tr/documents/1200px-ulker_logo_2_svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.boykot.co/d/ulker",
@@ -3220,10 +3212,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.mars.com/sites/g/files/dfsbuz106/files/styles/image_grid_1_1_282x282/public/2023-09/Mars%20Brand%20Logos%20Web%20Confectionary%20My%20MM.png?itok=jQ5na19B",
+        "iconUrl": "https://avatars.mds.yandex.net/i?id=a46244d7d38b96163fb35e5c7036d379e1d2ebfb-9856853-images-thumbs&n=13",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "My M&M's",
+        "kaynakUrl": "https://www.instagram.com/p/CybyIfJq3fw/?utm_source=ig_embed&ig_rid=9accc77f-439b-4ebe-aede-a38d02f38b84",
+        "marka": "Subway",
         "yerli_mi": false
     },
     {
@@ -3236,10 +3228,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.nestlehealthscience.com/sites/default/files/2023-05/solgar_0.jpg",
+        "iconUrl": "https://www.mars.com/sites/g/files/dfsbuz106/files/styles/image_grid_1_1_282x282/public/2023-09/Mars%20Brand%20Logos%20Web%20Confectionary%20My%20MM.png?itok=jQ5na19B",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
-        "marka": "Solgar",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "My M&M's",
         "yerli_mi": false
     },
     {
@@ -3248,6 +3240,14 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
         "marka": "Polo",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.nestlehealthscience.com/sites/default/files/2023-05/solgar_0.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
+        "marka": "Solgar",
         "yerli_mi": false
     },
     {
@@ -3292,18 +3292,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/6/69/Cornetto_logo.png?20180802080350",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Cornetto",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://logos-world.net/wp-content/uploads/2024/01/Purina-Symbol-500x281.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://tr.wikipedia.org/wiki/Purina_One",
         "marka": "Purina",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/6/69/Cornetto_logo.png?20180802080350",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Cornetto",
         "yerli_mi": false
     },
     {
@@ -3316,18 +3316,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.coca-cola.com/content/dam/onexp/tr/tr/logo-color/damla-minera_brandlogo_color_v3.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
-        "marka": "Damla Minera",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://cdn.sanity.io/images/92ui5egz/production/7c1c60e9afaaaa3cce61e5101717796d21b7f914-1426x1080.svg?rect=0,141,1426,799&w=150&h=84&fit=crop&auto=format",
         "kategori": "Gıda",
         "kaynakUrl": "https://www-unilever-com.translate.goog/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr",
         "marka": "Unilever",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.coca-cola.com/content/dam/onexp/tr/tr/logo-color/damla-minera_brandlogo_color_v3.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
+        "marka": "Damla Minera",
         "yerli_mi": false
     },
     {
@@ -3348,6 +3348,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b6/Logo_Kinder.svg/520px-Logo_Kinder.svg.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://tr.wikipedia.org/wiki/Kinder_Chocolate",
+        "marka": "Kinder",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2018/03/Kit-Kat-Logo-500x281.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
@@ -3364,10 +3372,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b6/Logo_Kinder.svg/520px-Logo_Kinder.svg.png",
+        "iconUrl": "https://seeklogo.com/images/N/nestle-nesquik-logo-A470822710-seeklogo.com.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://tr.wikipedia.org/wiki/Kinder_Chocolate",
-        "marka": "Kinder",
+        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
+        "marka": "Nesquik",
         "yerli_mi": false
     },
     {
@@ -3388,14 +3396,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://seeklogo.com/images/N/nestle-nesquik-logo-A470822710-seeklogo.com.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
-        "marka": "Nesquik",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8HjhEc0s9CBoB2Uw134RB6t8WqgchcbJuw&usqp=CAU",
         "kategori": "Gıda",
         "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
@@ -3412,18 +3412,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hero_corporate_logo_RGB.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://en.wikipedia.org/wiki/Israel%E2%80%93Switzerland_relations",
-        "marka": "Hero Baby",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Y%C4%B1ld%C4%B1z_Holding_logo.svg/2560px-Y%C4%B1ld%C4%B1z_Holding_logo.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.boykot.co/d/ulker",
         "marka": "Yıldız Holding",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hero_corporate_logo_RGB.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://en.wikipedia.org/wiki/Israel%E2%80%93Switzerland_relations",
+        "marka": "Hero Baby",
         "yerli_mi": false
     },
     {
@@ -3444,14 +3444,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.walkers.co.uk/assets/img/walkers__logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall",
-        "marka": "Walker's",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/M%26M%27s_logo.svg/2560px-M%26M%27s_logo.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
@@ -3464,6 +3456,14 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Juicy Fruit",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.walkers.co.uk/assets/img/walkers__logo.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall",
+        "marka": "Walker's",
         "yerli_mi": false
     },
     {
@@ -3564,14 +3564,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.fritolay.com/sites/fritolay.com/files/2023-09/splitz-seeds-logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Nuts And Seeds",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://allvectorlogo.com/img/2017/09/moevenpick-logo.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
@@ -3584,6 +3576,14 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Abu Siouf",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.fritolay.com/sites/fritolay.com/files/2023-09/splitz-seeds-logo.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "Nuts And Seeds",
         "yerli_mi": false
     },
     {
@@ -3620,6 +3620,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/powerade374.logowik.com.webp",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
+        "marka": "Powerade",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2020/07/Hellmanns-Logo-768x480.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
@@ -3636,10 +3644,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/powerade374.logowik.com.webp",
+        "iconUrl": "https://www.nestle.com.tr/sites/g/files/pydnoa471/files/asset-library/publishingimages/maggi.jpg",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.haaretz.com/israel-news/business/2019-07-14/ty-article/.premium/how-warren-buffett-bought-the-best-industrial-firm-in-israel/0000017f-e188-d804-ad7f-f1fa15ee0000",
-        "marka": "Powerade",
+        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
+        "marka": "Maggi",
         "yerli_mi": false
     },
     {
@@ -3652,14 +3660,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.nestle.com.tr/sites/g/files/pydnoa471/files/asset-library/publishingimages/maggi.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
-        "marka": "Maggi",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://logowik.com/content/uploads/images/114_nestle_logo.jpg",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
@@ -3668,18 +3668,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://seeklogo.com/images/L/lay-s-logo-E89818A5B3-seeklogo.com.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www-bloomberg-com.translate.goog/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify+wall&_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_hist=true",
-        "marka": "Lay’s",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtp2sGYY_x1XtsvUHPyNR0bOYUCcAvJFWYKcz5TBylZUAbVaTyzslzm5-JqrdDgEEaU40&usqp=CAU",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Skittles",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://seeklogo.com/images/L/lay-s-logo-E89818A5B3-seeklogo.com.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www-bloomberg-com.translate.goog/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify+wall&_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_hist=true",
+        "marka": "Lay’s",
         "yerli_mi": false
     },
     {
@@ -3724,18 +3724,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://fritolay.com.tr/images/rocco_marka.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement-net.translate.goog/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr",
-        "marka": "Rocco Strip",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7f33bc36632447.5723152bbe4e6.jpg",
         "kategori": "Gıda",
         "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
         "marka": "Tang",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://fritolay.com.tr/images/rocco_marka.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement-net.translate.goog/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr",
+        "marka": "Rocco Strip",
         "yerli_mi": false
     },
     {
@@ -3772,10 +3772,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.israeldairy.com/wp-content/uploads/2018/07/tnuva.jpg",
+        "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/7/77/5a3932c0c488ac6062ac2aff.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://en.wikipedia.org/wiki/Tnuva",
-        "marka": "Tnuva",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Max",
         "yerli_mi": false
     },
     {
@@ -3796,10 +3796,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/7/77/5a3932c0c488ac6062ac2aff.png",
+        "iconUrl": "https://www.israeldairy.com/wp-content/uploads/2018/07/tnuva.jpg",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Max",
+        "kaynakUrl": "https://en.wikipedia.org/wiki/Tnuva",
+        "marka": "Tnuva",
         "yerli_mi": false
     },
     {
@@ -3820,18 +3820,26 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmJ4YF3m_bn2HeMYSSx53G3uD4rmy__zOHW8GGYrSDCHM1oPSvUvjK6JxfN6fiz-UlMg&usqp=CAU",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://de.wikipedia.org/wiki/DMK_Deutsches_Milchkontor#:~:text=Die%20DMK%20Deutsches%20Milchkontor%20GmbH,die%20gr%C3%B6%C3%9Ften%20deutschen%20Milchverarbeiter%20waren.",
-        "marka": "Humana",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/f/fa/Kit_Kat_logosu.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www-just--food-com.translate.goog/news/israel-nestle-to-up-stake-in-osem/?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr&cf-view",
         "marka": "KitKat",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/4/44/Vienetta_logo.png/800px-Vienetta_logo.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Viennetta",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmJ4YF3m_bn2HeMYSSx53G3uD4rmy__zOHW8GGYrSDCHM1oPSvUvjK6JxfN6fiz-UlMg&usqp=CAU",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://de.wikipedia.org/wiki/DMK_Deutsches_Milchkontor#:~:text=Die%20DMK%20Deutsches%20Milchkontor%20GmbH,die%20gr%C3%B6%C3%9Ften%20deutschen%20Milchverarbeiter%20waren.",
+        "marka": "Humana",
         "yerli_mi": false
     },
     {
@@ -3848,14 +3856,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://en.wikipedia.org/wiki/Israel%E2%80%93Switzerland_relations",
         "marka": "Hero Gıda Sanayi A.Ş.",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/4/44/Vienetta_logo.png/800px-Vienetta_logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Viennetta",
         "yerli_mi": false
     },
     {
@@ -3892,6 +3892,22 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://cze.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_14.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Maltesers",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.fritolay.com/sites/fritolay.com/files/styles/product_thumbnail/public/2019-08/the-walking-taco-doritos-nacho-cheese.png?itok=MS9DdOGk",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "The Walking Taco",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yum%21_Brands_logo.svg/1200px-Yum%21_Brands_logo.svg.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://finance.yahoo.com/quote/YUM/holders?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAMEqjM_HJBlMWXh7JCY_SZ6ET4XkOeAwH2cji8HlUx_N7hse8tbpc5fk-mc4jp-1yQRhdqswrBVi0FkP74QaBbKcjnYLoTO1OlspvIwucKYo2W_bQxNWMxsVxIBi-Sv8E3T7Jb7TpiSolinK2luTD_-MmMw_40dAW2MJPQ6WPEoM",
@@ -3908,22 +3924,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.fritolay.com/sites/fritolay.com/files/styles/product_thumbnail/public/2019-08/the-walking-taco-doritos-nacho-cheese.png?itok=MS9DdOGk",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "The Walking Taco",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://cze.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_14.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Maltesers",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2020/07/Hubba-Bubba-Logo-500x313.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
@@ -3932,10 +3932,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fuHpDrSIUs2mIlty228jVUUC6vKJZeG4oDQkD7wjGh2IOJgcJgDeYwe3dxcrCZBof58&usqp=CAU",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9a/Nestea_logo.svg/200px-Nestea_logo.svg.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Starburst",
+        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
+        "marka": "Nestea",
         "yerli_mi": false
     },
     {
@@ -3948,10 +3948,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9a/Nestea_logo.svg/200px-Nestea_logo.svg.png",
+        "iconUrl": "https://www.santitas.com/sites/santitas.com/themes/santitas/img/logo.png?v2",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
-        "marka": "Nestea",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "Santitas",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fuHpDrSIUs2mIlty228jVUUC6vKJZeG4oDQkD7wjGh2IOJgcJgDeYwe3dxcrCZBof58&usqp=CAU",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Starburst",
         "yerli_mi": false
     },
     {
@@ -3988,18 +3996,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.santitas.com/sites/santitas.com/themes/santitas/img/logo.png?v2",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Santitas",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/1/14/Milky_way_logo_converted2.jpg",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Milky Way",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.mars.com/sites/g/files/dfsbuz106/files/styles/cropped_crop_3_2/public/2023-09/Ben%27s%20Original%20RGB%20logo%20%281%29%201080x1080.png?itok=Mgnny9lt",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Ben’s Original™",
         "yerli_mi": false
     },
     {
@@ -4020,10 +4028,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.mars.com/sites/g/files/dfsbuz106/files/styles/cropped_crop_3_2/public/2023-09/Ben%27s%20Original%20RGB%20logo%20%281%29%201080x1080.png?itok=Mgnny9lt",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Reckitt_%282021%29.svg/1200px-Reckitt_%282021%29.svg.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Ben’s Original™",
+        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
+        "marka": "Reckitt Grup",
         "yerli_mi": false
     },
     {
@@ -4036,10 +4044,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Reckitt_%282021%29.svg/1200px-Reckitt_%282021%29.svg.png",
+        "iconUrl": "https://mex.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_MARS_FOOD_03.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
-        "marka": "Reckitt Grup",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Ebly",
         "yerli_mi": false
     },
     {
@@ -4052,10 +4060,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://mex.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_MARS_FOOD_03.png",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCy4g2VT9a4qQSMEPT2myXupuje5mC7JrTArqmJlUa9A4UGlsBxXt_iqmzZ9BlQoLock&usqp=CAU",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Ebly",
+        "marka": "Suzı Wan",
         "yerli_mi": false
     },
     {
@@ -4072,14 +4080,6 @@
         "kategori": "Gıda",
         "kaynakUrl": "https://tr.wikipedia.org/wiki/Instacart#",
         "marka": "İnstacart",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCy4g2VT9a4qQSMEPT2myXupuje5mC7JrTArqmJlUa9A4UGlsBxXt_iqmzZ9BlQoLock&usqp=CAU",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Suzı Wan",
         "yerli_mi": false
     },
     {
@@ -4132,14 +4132,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://logowik.com/content/uploads/images/halls3645.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
-        "marka": "Halls",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/-gatorade.png/640px--gatorade.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
@@ -4148,10 +4140,26 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/halls3645.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment",
+        "marka": "Halls",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://www.preparedfoods.com/ext/resources/images/2020/1220/NaturesBakery_900.jpg?1606935443",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Nature's Bakery",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/Grandmas-logo.gif",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "Grandma'S",
         "yerli_mi": false
     },
     {
@@ -4180,6 +4188,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2i1VBVy-NG43ej2KdNkooKjbLARr3L5USoVai8HtkfkaWIIPpE7hehXtdijnuUt_d7I&usqp=CAU",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Tru Fru",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://www.nestle.fr/sites/g/files/pydnoa566/files/asset-library/publishingimages/brands/eaux/full%20logo%20white%20background%20fr-be.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodnavigator.com/Article/2016/02/04/Nestle-buys-out-Israeli-food-manufacturer-Osem-for-752m#:~:text=Food%20giant%20Nestl%C3%A9%20has%20agreed,publically%20traded%20food%20manufacturer%20private.",
@@ -4196,22 +4212,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItzkmUR9c4h1iCFgD6bdLeiARFsOLb7G5Oil4EVuKtt06_DLU5F7ObcoRMktG6j6H3Sg&usqp=CAU",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Tasty Bıte",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2i1VBVy-NG43ej2KdNkooKjbLARr3L5USoVai8HtkfkaWIIPpE7hehXtdijnuUt_d7I&usqp=CAU",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Tru Fru",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.ethelm.com/cdn/shop/files/EthelM-Logo-NoWeb-442x158_220x.png?v=1639783821",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
@@ -4220,10 +4220,34 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/8/81/Grandmas-logo.gif",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItzkmUR9c4h1iCFgD6bdLeiARFsOLb7G5Oil4EVuKtt06_DLU5F7ObcoRMktG6j6H3Sg&usqp=CAU",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Tasty Bıte",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Crackerjack_brand_logo.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Grandma'S",
+        "marka": "Cracker Jack",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Horizon_Organic_logo.png/150px-Horizon_Organic_logo.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Horizon Organic",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSK84A_FCh0r5Req-lmU6ioVedm4CSjlpdmyEuSShrpf-b1e9H4XawT3e249RtB5HkIng&usqp=CAU",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Provamel",
         "yerli_mi": false
     },
     {
@@ -4236,10 +4260,34 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSK84A_FCh0r5Req-lmU6ioVedm4CSjlpdmyEuSShrpf-b1e9H4XawT3e249RtB5HkIng&usqp=CAU",
+        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_03.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Provamel",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Amerıcan Herıtage",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.dolmio.co.uk/sites/g/files/fnmzdf1776/files/DOLMIO_MASTER.png",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Dolmıo",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://reckitt.com/static/16d17f340043c94934f977b524555850/4162e/movefree-223x150px.webp",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
+        "marka": "Move Free",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://i.pinimg.com/originals/31/be/dc/31bedc9ab60ca583eb6fb46e4d2aa061.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
+        "marka": "Sabritones",
         "yerli_mi": false
     },
     {
@@ -4268,66 +4316,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.dolmio.co.uk/sites/g/files/fnmzdf1776/files/DOLMIO_MASTER.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Dolmıo",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Horizon_Organic_logo.png/150px-Horizon_Organic_logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Horizon Organic",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.life-savers.com/sites/g/files/fnmzdf636/files/lifesavers-logo_1.png",
         "kategori": "Gıda",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Life Savers",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_29.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Altoıds",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_03.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Amerıcan Herıtage",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://www.conrandesigngroup.com/assets/Work/Cow-and-Gate/CDGWebsite_CaseStudies_CG_2_1500x1500__FocusFillWzgwMCw4MDAsZmFsc2UsMF0.jpg",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
-        "marka": "Cow & Gate",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Crackerjack_brand_logo.png",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Cracker Jack",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://reckitt.com/static/16d17f340043c94934f977b524555850/4162e/movefree-223x150px.webp",
-        "kategori": "Gıda",
-        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
-        "marka": "Move Free",
         "yerli_mi": false
     },
     {
@@ -4340,10 +4332,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://i.pinimg.com/originals/31/be/dc/31bedc9ab60ca583eb6fb46e4d2aa061.jpg",
+        "iconUrl": "https://arg.mars.com/sites/g/files/jydpyr861/files/2019-03/Logos_MARS_WRIGLEY_CONFECTIONERY_29.png",
         "kategori": "Gıda",
-        "kaynakUrl": "https://bdsmovement.net/news/%E2%80%9Csodastream-still-subject-boycott%E2%80%9D",
-        "marka": "Sabritones",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Altoıds",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.conrandesigngroup.com/assets/Work/Cow-and-Gate/CDGWebsite_CaseStudies_CG_2_1500x1500__FocusFillWzgwMCw4MDAsZmFsc2UsMF0.jpg",
+        "kategori": "Gıda",
+        "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
+        "marka": "Cow & Gate",
         "yerli_mi": false
     },
     {
@@ -4580,6 +4580,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://sangobion.com.my/static/images/logo-sangobion.svg",
+        "kategori": "Sağlık",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f43",
+        "marka": "Sangobion",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://d3na8jk4eex9j0.cloudfront.net/media/1754/high-res-new-logo.png",
         "kategori": "Sağlık",
         "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir24",
@@ -4600,14 +4608,6 @@
         "kategori": "Sağlık",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "AniCura",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://sangobion.com.my/static/images/logo-sangobion.svg",
-        "kategori": "Sağlık",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f43",
-        "marka": "Sangobion",
         "yerli_mi": false
     },
     {
@@ -4740,6 +4740,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://logowik.com/content/uploads/images/cif2122.jpg",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Cif",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://cdn.sanity.io/images/92ui5egz/production/608f7d6ddf070c55d693604ceb8c79c7dede273f-1080x1080.jpg?w=375&h=375&fit=crop&auto=format",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
@@ -4828,18 +4836,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.vanish.com.tr/static/0f99148361f9721d9626858c2a2d66b2/5ef00/652bdd19ecc6183380cb2147ff7b08bbf55aab8a.webp",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
-        "marka": "Kosla",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/0/0d/Omo-logo.png?20160411120413",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
         "marka": "Omo Deterjan",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.vanish.com.tr/static/0f99148361f9721d9626858c2a2d66b2/5ef00/652bdd19ecc6183380cb2147ff7b08bbf55aab8a.webp",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
+        "marka": "Kosla",
         "yerli_mi": false
     },
     {
@@ -4852,18 +4860,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/9/91/Mr_Muscle_Man%281%29.jpg",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir27",
-        "marka": "Mr.Muscle",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://dm.henkel-dam.com/is/image/henkel/bref-logo-desktop?wid=240&fmt=webp-alpha&qlt=90&fit=hfit",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
         "marka": "Bref",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/9/91/Mr_Muscle_Man%281%29.jpg",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir27",
+        "marka": "Mr.Muscle",
         "yerli_mi": false
     },
     {
@@ -4964,14 +4972,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.campaigntr.com/wp-content/uploads/2016/02/pg-scaled.jpg",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/",
-        "marka": "Procter & Gamble",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2020/04/Always-Logo-500x281.png",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f7",
@@ -4980,10 +4980,10 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://reckitt.com/static/6b9336ee98a72f32be3c7d49e0201243/4162e/lysol.webp",
+        "iconUrl": "https://www.campaigntr.com/wp-content/uploads/2016/02/pg-scaled.jpg",
         "kategori": "Temizlik",
-        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
-        "marka": "Lysol",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/",
+        "marka": "Procter & Gamble",
         "yerli_mi": false
     },
     {
@@ -4992,6 +4992,14 @@
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
         "marka": "Dixi",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://reckitt.com/static/6b9336ee98a72f32be3c7d49e0201243/4162e/lysol.webp",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://en.globes.co.il/en/article-reckitt-benckiser-seeks-investments-in-israeli-cos-1001262747",
+        "marka": "Lysol",
         "yerli_mi": false
     },
     {
@@ -5036,6 +5044,22 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://www.myclean.com/retail/images/logo.svg",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://twitter.com/BenCaspit/status/1714948635790578108",
+        "marka": "Myclean",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.henkel.com.tr/resource/image/502820/1x1/1000/1000/6d60d64a93fe778cf0a26ccd8eba2b70/A855C2B533596A7E19F6BFBCF3A097FA/logo-k2r-png.webp",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
+        "marka": "K2r",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://hips.hearstapps.com/hmg-prod/images/always-discreet-soc-cmyk-01-1652131002.png",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f16",
@@ -5052,18 +5076,26 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.myclean.com/retail/images/logo.svg",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://twitter.com/BenCaspit/status/1714948635790578108",
-        "marka": "Myclean",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.henkel.com.tr/resource/image/27416/1x1/1000/1000/5911de98c1c71145fe6e691bc656a4d3/70BC617FA49BFC3C71CB991EC391DA6A/clin-logo.webp",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
         "marka": "Clin",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhf5nQyXZ4DbstaEqTt30-QrMX4OgYb71na0VIDrBRa6sBf1_UTonrHVXh45AO0s8-5Y&usqp=CAU",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f17",
+        "marka": "Downy",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/f7/Safeguard_Soap_new.jpg/800px-Safeguard_Soap_new.jpg",
+        "kategori": "Temizlik",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f42",
+        "marka": "Safeguard",
         "yerli_mi": false
     },
     {
@@ -5084,22 +5116,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhf5nQyXZ4DbstaEqTt30-QrMX4OgYb71na0VIDrBRa6sBf1_UTonrHVXh45AO0s8-5Y&usqp=CAU",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f17",
-        "marka": "Downy",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://www.henkel.com.tr/resource/image/502820/1x1/1000/1000/6d60d64a93fe778cf0a26ccd8eba2b70/A855C2B533596A7E19F6BFBCF3A097FA/logo-k2r-png.webp",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
-        "marka": "K2r",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gWZcpTIlSS7gwfT12ISOHUIu0rTipHul6z8jxAzpFAkXghxQYOHI4aDTm6cwAyxWW5w&usqp=CAU",
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f15",
@@ -5112,14 +5128,6 @@
         "kategori": "Temizlik",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f12",
         "marka": "Bounce",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/f7/Safeguard_Soap_new.jpg/800px-Safeguard_Soap_new.jpg",
-        "kategori": "Temizlik",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f42",
-        "marka": "Safeguard",
         "yerli_mi": false
     },
     {
@@ -5428,18 +5436,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://mydogdna.com/cdn/shop/files/mydogdna-powered-by-wisdom-panel_eb75259e-2333-48a9-a8d4-c6459fb24519_160x200.png?v=1613787015",
-        "kategori": "İlaç",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "My Dog Dna",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://pbs.twimg.com/profile_images/1384929505505067010/Zo6tBkYy_400x400.jpg",
         "kategori": "İlaç",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Lovebug",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://mydogdna.com/cdn/shop/files/mydogdna-powered-by-wisdom-panel_eb75259e-2333-48a9-a8d4-c6459fb24519_160x200.png?v=1613787015",
+        "kategori": "İlaç",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "My Dog Dna",
         "yerli_mi": false
     },
     {
@@ -5492,14 +5500,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://mycatdna.com/cdn/shop/files/mycatdna-powered-by-wisdom-panel_160x200.png?v=1614300107",
-        "kategori": "İlaç",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "My Cat Dna",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.mars.com/sites/g/files/jydpyr316/files/2022-03/Greenies%20logo.png",
         "kategori": "İlaç",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
@@ -5524,6 +5524,30 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://mycatdna.com/cdn/shop/files/mycatdna-powered-by-wisdom-panel_160x200.png?v=1614300107",
+        "kategori": "İlaç",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "My Cat Dna",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QJCg60O10c3KC1taa7QV8O_clmf-JQnjeBfemZjxH-_j-4ut_E_3tEg1mgwUZT2FZgA&usqp=CAU",
+        "kategori": "İlaç",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f32",
+        "marka": "Neurobion",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11TSnhNnLdbok0BVFnYVxKL2-mlu0Gwi1xOmlUy5IJ8RX-YZSemJSdxeW-cKc2Ncs5AQ&usqp=CAU",
+        "kategori": "İlaç",
+        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
+        "marka": "Spiellers",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://searchvectorlogo.com/wp-content/uploads/2021/11/eukanuba-logo-vector.png",
         "kategori": "İlaç",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
@@ -5540,18 +5564,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKUbdTln1kRJqO6oRYPeCRr8sNZcc2m_t-RrGgbSU0Ly7NaHpzDA-mGGXZIkMbxyP4-c&usqp=CAU",
+        "iconUrl": "https://nor.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_BUSINESS_SEGMENTS_20.png",
         "kategori": "İlaç",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Seeds Of Change",
+        "marka": "Nutro",
         "yerli_mi": false
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11TSnhNnLdbok0BVFnYVxKL2-mlu0Gwi1xOmlUy5IJ8RX-YZSemJSdxeW-cKc2Ncs5AQ&usqp=CAU",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKUbdTln1kRJqO6oRYPeCRr8sNZcc2m_t-RrGgbSU0Ly7NaHpzDA-mGGXZIkMbxyP4-c&usqp=CAU",
         "kategori": "İlaç",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Spiellers",
+        "marka": "Seeds Of Change",
         "yerli_mi": false
     },
     {
@@ -5572,27 +5596,11 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QJCg60O10c3KC1taa7QV8O_clmf-JQnjeBfemZjxH-_j-4ut_E_3tEg1mgwUZT2FZgA&usqp=CAU",
-        "kategori": "İlaç",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f32",
-        "marka": "Neurobion",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://nor.mars.com/sites/g/files/jydpyr316/files/2019-03/Logos_BUSINESS_SEGMENTS_20.png",
-        "kategori": "İlaç",
-        "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
-        "marka": "Nutro",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MiGROS_Logo.svg/320px-MiGROS_Logo.svg.png",
         "kategori": "Süpermarket",
         "kaynakUrl": "https://onedio.com/haber/migros-aciklama-yapti-konseri-iptal-edilen-fazil-say-a-destek-yagdi-1180162",
         "marka": "Migros",
-        "yerli_mi": true
+        "yerli_mi": false
     },
     {
         "boykotMu": true,
@@ -5600,7 +5608,7 @@
         "kategori": "Süpermarket",
         "kaynakUrl": "https://twitter.com/gidaajansi/status/1755264056452116574?t=KA0BE2V32vW_kKJY5B9s3A&s=19",
         "marka": "Şok",
-        "yerli_mi": true
+        "yerli_mi": false
     },
     {
         "boykotMu": true,
@@ -5622,7 +5630,7 @@
         "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/1200px-Philips_logo_new.svg.png",
         "kategori": "Teknoloji",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#7d1f12041612091e123d1a101c1411531e1210420e081f17181e0940b9cd09140f1c07475d2d151411140d0e5b1f12190440b9cd09140f1c075d0e181f181f1413145d041c07b9cc13b9cc0747",
+        "kaynakUrl": null,
         "marka": "Philips",
         "yerli_mi": false
     },
@@ -5640,7 +5648,7 @@
         "kategori": "Teknoloji",
         "kaynakUrl": "https://islamianaliz.com/haber/18020480/bdsden-cagri-vesteli-de-boykot-listemize-ekliyoruz",
         "marka": "Vestel",
-        "yerli_mi": true
+        "yerli_mi": false
     },
     {
         "boykotMu": true,
@@ -5662,7 +5670,7 @@
         "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/300px-Instagram_icon.png",
         "kategori": "Teknoloji",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#9cfef3e5f7f3e8fff3dcfbf1fdf5f0b2fff3f1a3efe9fef6f9ffe8a1582ce8f5eefde6a6bcd5f2efe8fdfbeefdf1bafef3f8e5a1582ce8f5eefde6bceff9fef9fef5f2f5bce5fde6582df2582de6a6",
+        "kaynakUrl": null,
         "marka": "Instagram",
         "yerli_mi": false
     },
@@ -5900,6 +5908,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/520px-Meta-Logo.png",
+        "kategori": "Teknoloji",
+        "kaynakUrl": "https://www.jpost.com/j-spot/article-767724",
+        "marka": "Meta",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/7/79/Logo_of_MyHeritage_website.jpg",
         "kategori": "Teknoloji",
         "kaynakUrl": "https://tr.wikipedia.org/wiki/MyHeritage",
@@ -5928,14 +5944,6 @@
         "kategori": "Teknoloji",
         "kaynakUrl": "https://www.motorola.com/us/",
         "marka": "Motorola",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/520px-Meta-Logo.png",
-        "kategori": "Teknoloji",
-        "kaynakUrl": "https://www.jpost.com/j-spot/article-767724",
-        "marka": "Meta",
         "yerli_mi": false
     },
     {
@@ -6028,18 +6036,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://lh3.googleusercontent.com/AuI79N0xGtd1W7ARQrlr_1ktLgmamXdTw6bcQjqvoupKbuVSNjX4LMhztGUJbqCfKcnB65n3CD3CTwfPYAfSpsdSdS4YUtCHrmgZNw=h630-w1200",
-        "kategori": "Teknoloji",
-        "kaynakUrl": "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract",
-        "marka": "Waze",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/archive/c/ca/20140205111028%21CNBC-e_logosu.png",
         "kategori": "Teknoloji",
         "kaynakUrl": "https://corporate.comcast.com/stories/updates-about-the-unfolding-events-in-israel-and-the-middle-east#:~:text=We%20have%20donated%20to%20support,destination%20available%20to%20Xfinity%20customers.&text=On%20October%2013%2C%20Comcast%20NBCUniversal,relief%20efforts%20in%20the%20region.",
         "marka": "Cnbc-E",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://lh3.googleusercontent.com/AuI79N0xGtd1W7ARQrlr_1ktLgmamXdTw6bcQjqvoupKbuVSNjX4LMhztGUJbqCfKcnB65n3CD3CTwfPYAfSpsdSdS4YUtCHrmgZNw=h630-w1200",
+        "kategori": "Teknoloji",
+        "kaynakUrl": "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract",
+        "marka": "Waze",
         "yerli_mi": false
     },
     {
@@ -6134,7 +6142,7 @@
         "boykotMu": true,
         "iconUrl": "https://avatars.mds.yandex.net/i?id=ec65dfa782b845ba2da00d7597a078082a9db93a-10332895-images-thumbs&n=13",
         "kategori": "Teknoloji",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#dab8b5a3b1b5aeb9b59abdb7bbb3b6f4b9b5b7e5a9afb8b0bfb9aee71e6aaeb3a8bba0e0fa8ebbb8b5b5b6bbfcb8b5bea3e71e6aaeb3a8bba0faa9bfb8bfb8b3b4b3faa3bba01e6bb41e6ba0e0",
+        "kaynakUrl": null,
         "marka": "Taboola",
         "yerli_mi": false
     },
@@ -6148,18 +6156,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Insight_Partners_logo.png",
-        "kategori": "Teknoloji",
-        "kaynakUrl": "https://en.wikipedia.org/wiki/Insight_Partners",
-        "marka": "İnsight Partners",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjNE9CXNY2MOut-oIYBM-hQp7OO71eyPoBjPepEPGJdpByKR7JlSTXiykrUpQoEx884M&usqp=CAU",
         "kategori": "Teknoloji",
         "kaynakUrl": "https://www.foodmanufacturing.com/home/news/13251464/mars-incorporated-partners-with-jerusalem-venture-partners-to-foster-foodtech-solutions-in-israel",
         "marka": "Vet İnsight",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Insight_Partners_logo.png",
+        "kategori": "Teknoloji",
+        "kaynakUrl": "https://en.wikipedia.org/wiki/Insight_Partners",
+        "marka": "İnsight Partners",
         "yerli_mi": false
     },
     {
@@ -6246,7 +6254,7 @@
         "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rossmann_Logo.svg/520px-Rossmann_Logo.svg.png",
         "kategori": "Kişisel Bakım",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#c4a6abbdafabb0a7ab84a3a9a5ada8eaa7aba9fbb7b1a6aea1a7b0f90074b0adb6a5befee496abb7b7a9a5aaaae2a6aba0bdf90074b0adb6a5bee4b7a1a6a1a6adaaade4bda5be0075aa0075befe",
+        "kaynakUrl": null,
         "marka": "Rossmann",
         "yerli_mi": false
     },
@@ -6340,18 +6348,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.henkel.com.tr/resource/image/214622/1x1/1000/1000/6aac5b37116440b0eb2c8b883ea367f4/AC066B0CBFDE347FB042913CD70B0F56/schwarzkopf-corporate.webp",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
-        "marka": "Schwarzkopf",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://www.logodesignlove.com/images/evolution/braun-logo.jpg",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f13",
         "marka": "Braun",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.henkel.com.tr/resource/image/214622/1x1/1000/1000/6aac5b37116440b0eb2c8b883ea367f4/AC066B0CBFDE347FB042913CD70B0F56/schwarzkopf-corporate.webp",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
+        "marka": "Schwarzkopf",
         "yerli_mi": false
     },
     {
@@ -6412,18 +6420,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEmzIXQO_PQRqj2Jv-ACy6N9vwB-DBXfX_P_w6t6P&s",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://wwd.com/feature/l-oreal-gets-30-stake-in-interbeauty-1159528-1743356/",
-        "marka": "Elseve",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://1000logos.net/wp-content/uploads/2021/04/Dove-logo-768x432.png",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
         "marka": "Dove",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEmzIXQO_PQRqj2Jv-ACy6N9vwB-DBXfX_P_w6t6P&s",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://wwd.com/feature/l-oreal-gets-30-stake-in-interbeauty-1159528-1743356/",
+        "marka": "Elseve",
         "yerli_mi": false
     },
     {
@@ -6438,16 +6446,8 @@
         "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vaseline_new_logo.png/320px-Vaseline_new_logo.png",
         "kategori": "Kişisel Bakım",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#1775786e7c7863747857707a767e7b3974787a286462757d7274632ad3a7637e65766d2d37417664727b7e7972317578736e2ad3a7637e65766d3764727572757e797e376e766dd3a679d3a66d2d",
+        "kaynakUrl": null,
         "marka": "Vaseline",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Axe_logo_2016.svg/1200px-Axe_logo_2016.svg.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
-        "marka": "Axe",
         "yerli_mi": false
     },
     {
@@ -6456,6 +6456,14 @@
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir17",
         "marka": "Listerine",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Axe_logo_2016.svg/1200px-Axe_logo_2016.svg.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.just-food.com/news/israel-unilever-takes-control-of-strauss-ice-cream/",
+        "marka": "Axe",
         "yerli_mi": false
     },
     {
@@ -6660,18 +6668,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.cleanandclear.com/sites/cleanandclear_us/themes/cleanclear_us/logo.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir10",
-        "marka": "Clean & Clear",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrlk97YQF2lrZPUvKKLM7oX9hB287VVDPdHmIHdOQnC35LDnwk2KnRpCdjmNDq0wqYc8&usqp=CAU",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
         "marka": "Nutricia",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.cleanandclear.com/sites/cleanandclear_us/themes/cleanclear_us/logo.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir10",
+        "marka": "Clean & Clear",
         "yerli_mi": false
     },
     {
@@ -6684,18 +6692,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://seeklogo.com/images/O/off-logo-89E9F1832C-seeklogo.com.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir7",
-        "marka": "Off",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aveeno_logo.svg/440px-Aveeno_logo.svg.png",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir7 ",
         "marka": "Aveeno",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://seeklogo.com/images/O/off-logo-89E9F1832C-seeklogo.com.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir7",
+        "marka": "Off",
         "yerli_mi": false
     },
     {
@@ -6772,18 +6780,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://images.hepsiburada.net/description-assets/description-prod-2/dc8843c5-24df-424b-b850-745c9453d7c7.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.unilever.com.tr/news/press-releases/2019/12-saat-kalici-kokusu-ile-yeni-pure-line-dus-jelleri/",
-        "marka": "Pure Line",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Logo_Milupa.svg/1200px-Logo_Milupa.svg.png",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://web.archive.org/web/20200604165628/https://www.strauss-group.com/partner/partnership_danone/",
         "marka": "Milupa",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://images.hepsiburada.net/description-assets/description-prod-2/dc8843c5-24df-424b-b850-745c9453d7c7.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.unilever.com.tr/news/press-releases/2019/12-saat-kalici-kokusu-ile-yeni-pure-line-dus-jelleri/",
+        "marka": "Pure Line",
         "yerli_mi": false
     },
     {
@@ -6804,18 +6812,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/JoMalone_Logo.jpg",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.arabnews.com/node/220523",
-        "marka": "Jo Malone",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://media.elcompanies.com/images/e/estee-lauder-companies/universal/our-brands/dr-jart-plus/drjart-logo-tagline-black.png?h=834&iar=0&w=2281",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.arabnews.com/node/220528",
         "marka": "Dr. Jart+",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/JoMalone_Logo.jpg",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.arabnews.com/node/220523",
+        "marka": "Jo Malone",
         "yerli_mi": false
     },
     {
@@ -6924,18 +6932,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWykVsqGMUX6ijCLSojUhVvMRgES6yz75PjfscINOJRcpTXaQYCmkeEH6e9mIYoOLHxAY&usqp=CAU",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir18",
-        "marka": "Neostrata",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://allvectorlogo.com/img/2017/09/tom-ford-beauty-logo.png",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.arabnews.com/node/220525",
         "marka": "Tom Frod Beauty",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWykVsqGMUX6ijCLSojUhVvMRgES6yz75PjfscINOJRcpTXaQYCmkeEH6e9mIYoOLHxAY&usqp=CAU",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir18",
+        "marka": "Neostrata",
         "yerli_mi": false
     },
     {
@@ -6996,18 +7004,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.henkel.com.tr/resource/image/33608/1x1/1000/1000/10e2dbb01c782492a187b4f65814bf55/1B3CD93BC4C44891D6FFEA5DB5C7C8D1/osis-logo.webp",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
-        "marka": "Osis+",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/pizbuin.gif",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://yale.app.box.com/s/6fnlf6g8kbutfdhv5rmsazfezrh1iir23",
         "marka": "Piz Buin",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://www.henkel.com.tr/resource/image/33608/1x1/1000/1000/10e2dbb01c782492a187b4f65814bf55/1B3CD93BC4C44891D6FFEA5DB5C7C8D1/osis-logo.webp",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
+        "marka": "Osis+",
         "yerli_mi": false
     },
     {
@@ -7076,18 +7084,18 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHTIL_Logos_sml_BM-Horizontal_Flat_800x500-Trimmed?wid=480&fmt=webp-alpha&qlt=80&fit=hfit",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
-        "marka": "Blondme",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBbVP55Zrm6liKwEbVTiVXkCSq5MIb4iEcP_ufFcOWe7ZfoO9SJmiumr9iPTQXGw0-6U&usqp=CAU",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f33",
         "marka": "Noxell",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHTIL_Logos_sml_BM-Horizontal_Flat_800x500-Trimmed?wid=480&fmt=webp-alpha&qlt=80&fit=hfit",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
+        "marka": "Blondme",
         "yerli_mi": false
     },
     {
@@ -7108,22 +7116,6 @@
     },
     {
         "boykotMu": true,
-        "iconUrl": "https://www.femibion.de/static/images/logo-main-v2_white.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f21",
-        "marka": "Femibion",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://cdn.cookielaw.org/logos/27a5367b-1368-47a0-a893-b944fb7aeb6d/d7c2e86b-32ef-42f8-b5c8-6e2b5f8faff7/ecfc8301-8e38-44cb-8a30-767e34df428a/swash-logo.png",
-        "kategori": "Kişisel Bakım",
-        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f44",
-        "marka": "Swash",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
         "iconUrl": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHTIL_Logos_BC-Black?wid=480&fmt=webp-alpha&qlt=80&fit=hfit&align=-1,0",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
@@ -7132,10 +7124,26 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://www.femibion.de/static/images/logo-main-v2_white.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f21",
+        "marka": "Femibion",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://www.henkel.com.tr/resource/image/417254/1x1/1000/1000/15292d9942c7170db227b3f8f0b340f4/0CA5E6FC87D6F7B6F4DBE2B1EC4214AE/strait-styling-logo.webp",
         "kategori": "Kişisel Bakım",
         "kaynakUrl": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/carsten-knobel-chef-von-henkel-koennen-nicht-schon-wieder-die-preise-senken/29429968.html",
         "marka": "Strait Styling",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
+        "iconUrl": "https://cdn.cookielaw.org/logos/27a5367b-1368-47a0-a893-b944fb7aeb6d/d7c2e86b-32ef-42f8-b5c8-6e2b5f8faff7/ecfc8301-8e38-44cb-8a30-767e34df428a/swash-logo.png",
+        "kategori": "Kişisel Bakım",
+        "kaynakUrl": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=649d10c811f44",
+        "marka": "Swash",
         "yerli_mi": false
     },
     {
@@ -7230,7 +7238,7 @@
         "boykotMu": true,
         "iconUrl": "https://static.ticimax.cloud/3882/uploads/urunresimleri/buyuk/filistin-medjoul-jumbo-500-g-dfce.jpg",
         "kategori": "Hurma",
-        "kaynakUrl": "/cdn-cgi/l/email-protection#f795988e9c98839498b7909a969e9bd994989ac88482959d929483ca3347839e85968dcdd7ba92939d98829bd19598938eca3347839e85968dd784929592959e999ed78e968d33469933468dcd",
+        "kaynakUrl": null,
         "marka": "Medjoul",
         "yerli_mi": false
     },
@@ -7284,6 +7292,14 @@
     },
     {
         "boykotMu": true,
+        "iconUrl": "https://www.israelimedjooldates.com/img/mehadrin.png",
+        "kategori": "Hurma",
+        "kaynakUrl": "https://www.israelimedjooldates.com/",
+        "marka": "Mehadrin",
+        "yerli_mi": false
+    },
+    {
+        "boykotMu": true,
         "iconUrl": "https://pbs.twimg.com/profile_images/2482761784/4fkhwp6qvlkxnec3tvqi_400x400.jpeg",
         "kategori": "Hurma",
         "kaynakUrl": "https://www.israelimedjooldates.com/",
@@ -7296,14 +7312,6 @@
         "kategori": "Hurma",
         "kaynakUrl": "https://www.instagram.com/p/C3s6iIju2pw/?igsh=MW16OWRxdTVpM2Jn",
         "marka": "Agrifood marketing",
-        "yerli_mi": false
-    },
-    {
-        "boykotMu": true,
-        "iconUrl": "https://www.israelimedjooldates.com/img/mehadrin.png",
-        "kategori": "Hurma",
-        "kaynakUrl": "https://www.israelimedjooldates.com/",
-        "marka": "Mehadrin",
         "yerli_mi": false
     }
 ]
