@@ -626,11 +626,6 @@
     },
     {
         "kategori": "Gıda",
-        "marka": "Coca-Cola",
-        "yerli_mi": false
-    },
-    {
-        "kategori": "Gıda",
         "marka": "Pepsi Co",
         "yerli_mi": false
     },
