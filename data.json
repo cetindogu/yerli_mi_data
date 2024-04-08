@@ -7337,5 +7337,10 @@
           "marka": "Kahve Dünyası",
           "kategori": "Kahve",
           "yerli_mi": true
+     },
+     {
+          "marka": "Electrolux",
+          "kategori": "Elektronik",
+          "yerli_mi": false
      }
 ]
