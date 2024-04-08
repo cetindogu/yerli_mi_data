@@ -7342,5 +7342,10 @@
           "marka": "Electrolux",
           "kategori": "Elektronik",
           "yerli_mi": false
+     },
+     {
+          "marka": "AEG",
+          "kategori": "Elektronik",
+          "yerli_mi": false
      }
 ]
